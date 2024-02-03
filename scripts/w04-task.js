@@ -11,7 +11,7 @@ name: "Romel Patino",
 photo: "images/IMG_0939.jpg",
 favoriteFoods: ["Argentinian Churrasco", "Bandeja Paisa", "Pizza"],
 hobbies: ["Play Soccer", "Listen to music", "Skate"],
-placesLived: []
+placesLived: [] 
 };
 myProfile.placesLived.push({
     place: 'Otavalo, Ecuador',
