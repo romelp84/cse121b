@@ -10,7 +10,7 @@ let myProfile = {
 name: "Romel Patino",
 photo: "images/IMG_0939.jpg",
 favoriteFoods: ["Argentinian Churrasco", "Bandeja Paisa", "Pizza"],
-hobbies: ["Reading", "Hiking", "Coding"],
+hobbies: ["Play Soccer", "Listen to music", "Skate"],
 placesLived: []
 };
 myProfile.placesLived.push({
